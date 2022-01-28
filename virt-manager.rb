@@ -28,7 +28,7 @@ class VirtManager < Formula
 
   resource "libvirt-python" do
     url "https://libvirt.org/sources/python/libvirt-python-8.0.0.tar.gz"
-    sha256 "23c7dd5e0829ad020cc874b42d97bed84aa516861d74439d81879b40d6a80147"
+    sha256 "0245c226d7b83b32449299d0ca5f1f250dcc07edf9f2fcd87cb7462f09e4c026"
   end
 
   resource "idna" do
